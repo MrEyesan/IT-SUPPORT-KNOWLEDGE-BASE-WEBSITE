@@ -1,9 +1,8 @@
 it-support-knowledge-base/
 ├── README.md
-├── index.html
+├── ITKB.html
 ├── assets/
 │   ├── css/
-│   ├── images/
 │   └── js/
 ├── manuals/
 │   ├── 2fa-setup.html
