@@ -1,0 +1,150 @@
+## contribution-guidelines.md
+```markdown
+# Contributing to IT Support Knowledge Base
+
+Thank you for your interest in improving our knowledge base. This document provides guidelines for contributing new content or updating existing documentation.
+
+## Before You Start
+
+1. **Review existing content** to avoid duplication
+2. **Check the style guide** (`style-guide.md`) for formatting requirements
+3. **Verify you have** necessary permissions for the systems you're documenting
+4. **Test all procedures** on target platforms before submission
+
+## Types of Contributions
+
+### New Documentation
+- Complete manuals for new IT topics
+- Additional troubleshooting procedures
+- Platform-specific guides (mobile, Linux variants)
+- Emergency response procedures
+
+### Content Updates
+- Procedure corrections or improvements
+- New troubleshooting solutions
+- Security updates or policy changes
+- Version updates for software/OS changes
+
+### Technical Improvements
+- HTML/CSS enhancements
+- Search functionality improvements
+- Mobile responsiveness fixes
+- Accessibility improvements
+
+## Submission Process
+
+### 1. Content Planning
+- **Create an issue** describing the proposed content
+- **Get approval** from documentation maintainers
+- **Identify target audience** (end users, IT staff, both)
+- **Define scope and platform coverage**
+
+### 2. Content Development
+- **Follow the style guide** for structure and formatting
+- **Use the document template** provided in `/templates/`
+- **Include all required sections** per style guide
+- **Test all procedures** on actual systems
+- **Document version information** and review dates
+
+### 3. Quality Review
+- **Self-review** using the QA checklist
+- **Peer review** by another team member
+- **Technical validation** by subject matter expert
+- **Security review** for compliance requirements
+
+### 4. Submission
+- **Create a pull request** with clear description
+- **Include testing evidence** (screenshots, test results)
+- **Reference related issues** or documentation
+- **Request specific reviewers** if applicable
+
+## Content Standards
+
+### Documentation Requirements
+
+**Every manual must include:**
+- Standardized header with metadata
+- Comprehensive table of contents
+- Step-by-step procedures with verification
+- Troubleshooting matrix with escalation guidance
+- Security best practices section
+- Support and escalation procedures
+- Quick reference summary
+
+### Testing Requirements
+
+**Before submission, verify:**
+- All procedures work on specified platforms
+- Commands execute successfully
+- Screenshots are current and accurate
+- Links resolve correctly
+- Cross-references are valid
+
+### Security Considerations
+
+**All content must:**
+- Follow corporate security policies
+- Include appropriate warnings for risky procedures
+- Address compliance requirements (GDPR, HIPAA, etc.)
+- Define proper escalation for security incidents
+- Avoid exposing sensitive information
+
+## Review Process
+
+### Automated Checks
+- Markdown formatting validation
+- Link checking
+- Spell checking
+- Style guide compliance
+
+### Manual Review Stages
+
+1. **Technical Review** - Accuracy and completeness
+2. **Editorial Review** - Clarity and consistency
+3. **Security Review** - Compliance and risk assessment
+4. **Final Approval** - Maintainer sign-off
+
+### Review Criteria
+
+**Content will be evaluated on:**
+- Accuracy and completeness
+- Clarity and usability
+- Consistency with existing documentation
+- Security and compliance adherence
+- Platform coverage appropriateness
+
+## Maintenance Responsibilities
+
+### Contributors
+- **Test procedures** before submission
+- **Respond to review feedback** promptly
+- **Update content** when systems change
+- **Monitor issues** related to your contributions
+
+### Maintainers
+- **Review submissions** within 5 business days
+- **Provide constructive feedback**
+- **Ensure consistency** across all content
+- **Coordinate major updates**
+- **Manage release cycles**
+
+## Communication
+
+### Getting Help
+- **General questions:** Create an issue with "question" label
+- **Technical problems:** Create an issue with "bug" label
+- **Style clarification:** Reference specific style guide sections
+- **Urgent issues:** Contact maintainers directly
+
+### Feedback and Suggestions
+- **Content improvements:** Create enhancement issues
+- **New topic requests:** Use feature request template
+- **Process improvements:** Discuss in maintainer meetings
+- **User feedback:** Report via support channels
+
+## Templates and Examples
+
+### Document Template
+Use `/templates/manual-template.md` as starting point for new documentation.
+
+### Example Structure
