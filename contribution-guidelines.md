@@ -1,5 +1,4 @@
 ## contribution-guidelines.md
-```markdown
 # Contributing to IT Support Knowledge Base
 
 Thank you for your interest in improving our knowledge base. This document provides guidelines for contributing new content or updating existing documentation.
