@@ -1,0 +1,15 @@
+it-support-knowledge-base/
+├── README.md
+├── index.html
+├── assets/
+│   ├── css/
+│   ├── images/
+│   └── js/
+├── manuals/
+│   ├── 2fa-setup.html
+│   ├── file-sharing-permissions.html
+│   ├── remote-desktop-connection.html
+│   └── software-installation.html
+└── documentation/
+    ├── style-guide.md
+    └── contribution-guidelines.md
