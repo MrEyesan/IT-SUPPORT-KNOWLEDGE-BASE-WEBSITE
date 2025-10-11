@@ -10,6 +10,8 @@ A comprehensive, professional knowledge base website designed for IT support tea
 - **File Sharing and Permissions** - Windows, macOS, and network sharing procedures  
 - **Remote Desktop Connection (RDC)** - Cross-platform remote access configuration
 - **Software Installation Guide** - Enterprise-compliant installation procedures
+- <img width="1600" height="810" alt="image" src="https://github.com/user-attachments/assets/7430444f-db4f-4049-b6d4-80541826ff98" />
+
 
 ##  Key Features
 
