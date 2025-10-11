@@ -1,6 +1,8 @@
 # IT Support Knowledge Base
 
 A comprehensive, professional knowledge base website designed for IT support teams and end-users. Features standardized documentation, troubleshooting procedures, and security best practices.
+<img width="1594" height="809" alt="Knowledge Based site" src="https://github.com/user-attachments/assets/287eca6b-792b-4b3d-b53c-c9b2045387b9" />
+
 
 ##  Documentation Coverage
 
